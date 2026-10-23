@@ -58,7 +58,7 @@ Onze projets réalisés au cours d’une formation en analyse de données, couvr
 
 **Livrables.** Présentation (21 diapositives) et dictionnaire de données.
 
-**Accès :** [ajouter le lien vers le dossier du projet 05]
+**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/5-Structurer%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re)
 
 ### Projet 06 — Fiabiliser les analyses de ventes et de stocks
 
@@ -86,7 +86,7 @@ Onze projets réalisés au cours d’une formation en analyse de données, couvr
 
 **Livrables.** Rapport Power BI (.pbix) ; capture à exporter pour la version finale.
 
-**Accès :** [ajouter le lien vers le dossier du projet 07]
+**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/7-Piloter%20la%20performance%20de%20projets%20avec%20Power%20BI)
 
 ### Projet 08 — Construire un pipeline analytique avec dbt
 
@@ -114,7 +114,7 @@ Onze projets réalisés au cours d’une formation en analyse de données, couvr
 
 **Livrables.** Notebook analytique et présentation (31 diapositives).
 
-**Accès :** [ajouter le lien vers le dossier du projet 09]
+**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/9-Analyse%20des%20ventes%20d'une%20librairie%20en%20ligne)
 
 ### Projet 10 — Cibler les actions sur l’accès à l’eau potable
 
