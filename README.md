@@ -142,7 +142,7 @@ Onze projets réalisés au cours d’une formation en analyse de données, couvr
 
 **Livrables.** Deux notebooks et présentation (21 diapositives).
 
-**Accès :** [ajouter le lien vers le dossier du projet 11]
+**Accès :** [https://github.com/M-Javah/Portfolio-Data-Analyst/tree/d9513c7996458b07282bf77437ef0a7f099277c3/11-Identifier%20des%20march%C3%A9s%20d%E2%80%99exportation%20attractifs]
 
 ### Projet 12 — Prédire l’authenticité de billets de banque
 
