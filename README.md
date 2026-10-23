@@ -128,7 +128,7 @@ Onze projets réalisés au cours d’une formation en analyse de données, couvr
 
 **Livrables.** Rapport Power BI (.pbix) et présentation du besoin.
 
-**Accès :** [ajouter le lien vers le dossier du projet 10]
+**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/d4bed227f843f611a5e917d7f4c32d172ce517ba/10-Cibler%20les%20actions%20sur%20l%E2%80%99acc%C3%A8s%20%C3%A0%20l%E2%80%99eau%20potable)
 
 ### Projet 11 — Identifier des marchés d’exportation attractifs
 
