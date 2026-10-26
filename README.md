@@ -1,7 +1,11 @@
 # Portfolio-Data-Analyst
-Portfolio de projets en analyse de données – Python, SQL, Power BI, Machine Learning
-# Présentation
-Onze projets réalisés au cours d’une formation en analyse de données, couvrant Python, SQL, Power BI, dbt, analyses statistiques et apprentissage automatique.
+
+## Présentation
+Ce portfolio rassemble les projets que j'ai réalisés au cours de ma formation en analyse de données. Ils couvrent différentes problématiques métier : analyse des ventes, gestion des stocks, étude des comportements clients, suivi d'indicateurs, segmentation de marchés et modélisation prédictive.
+
+Ces réalisations m'ont permis de développer des compétences sur plusieurs étapes d'un projet data, depuis la collecte et la préparation des données jusqu'à leur analyse, leur visualisation et la restitution des résultats.
+
+J'accorde une importance particulière à la qualité des données, à la rigueur des méthodes utilisées et à la clarté des conclusions. Mon approche consiste à partir d'un besoin métier, à choisir les méthodes adaptées et à produire des résultats interprétables et utiles à la prise de décision.
 ## Projets
 
 ### Projet 02 — Comprendre l’évolution des ventes e-commerce
