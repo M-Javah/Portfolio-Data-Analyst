@@ -6,7 +6,35 @@ Ce portfolio rassemble les projets que j'ai réalisés au cours de ma formation 
 Ces réalisations m'ont permis de développer des compétences sur plusieurs étapes d'un projet data, depuis la collecte et la préparation des données jusqu'à leur analyse, leur visualisation et la restitution des résultats.
 
 J'accorde une importance particulière à la qualité des données, à la rigueur des méthodes utilisées et à la clarté des conclusions. Mon approche consiste à partir d'un besoin métier, à choisir les méthodes adaptées et à produire des résultats interprétables et utiles à la prise de décision.
+
+## Compétences mises en pratique
+
+### Préparation, nettoyage et structuration des données
+
+Utilisation de Python, Pandas et SQL pour explorer, nettoyer, fusionner et contrôler la cohérence de plusieurs sources de données. Conception de bases relationnelles et réalisation de transformations avec dbt et Snowflake.
+
+Exemples : projets 5, 6 et 8.
+
+### Analyse statistique et modélisation
+
+Analyses descriptives et inférentielles, tests statistiques, régression, analyse en composantes principales (ACP), classification ascendante hiérarchique (CAH), K-means et modèles de prédiction avec scikit-learn.
+
+Exemples : projets 9, 11 et 12.
+
+### Visualisation et Business Intelligence
+
+Création de tableaux de bord Power BI, définition et analyse d'indicateurs de performance, conception de visualisations pour faciliter la compréhension des données et le suivi des activités.
+
+Exemples : projets 7 et 10.
+
+### Interprétation des résultats et recommandations métier
+
+Analyse des résultats en tenant compte du contexte, identification de tendances et d'anomalies, formulation de recommandations et présentation des conclusions à travers des rapports et des supports de restitution.
+
+Exemples : projets 2, 6 et 9.
+
 ## Projets
+Les projets présentés ci-dessous illustrent ces compétences à travers des études de cas réalisées pendant ma formation. Chaque présentation décrit le besoin métier, les méthodes employées et les principaux résultats, avec un accès aux livrables correspondants : notebooks Python, présentations, tableaux de bord ou scripts.
 
 ### Projet 02 — Comprendre l’évolution des ventes e-commerce
 
@@ -20,7 +48,7 @@ J'accorde une importance particulière à la qualité des données, à la rigueu
 
 **Livrables.** Rapport mensuel (7 pages) et classeur clients affiliés.
 
-**Accès :** [ajouter le lien vers le dossier du projet 02]
+**Accès :** [lien vers le dossier du projet 2](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/a0b25d8b2d42d9f54cd1d962314016bcc7e9c6cd/2-Evolution%20des%20ventes%20e-commerce)
 
 ### Projet 03 — Interroger une base d’assurance avec SQL
 
