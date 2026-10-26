@@ -62,7 +62,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Documentation technique, requêtes et méthodologie (PDF).
 
-**Accès :** [ajouter le lien vers le dossier du projet 03]
+**Accès :** [lien vers le dossier du projet 3](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/2a5bd382b0d3bc88bf428efbf9f418499ba5fb49/3-Interroger%20une%20base%20d%E2%80%99assurance%20avec%20SQL)
 
 ### Projet 04 — Analyser la sous-nutrition dans le monde
 
@@ -76,7 +76,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Notebook et présentation de l’étude.
 
-**Accès :** [ajouter le lien vers le dossier du projet 04]
+**Accès :** [lien vers le dossier du projet 4](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/2a5bd382b0d3bc88bf428efbf9f418499ba5fb49/4-%20Analyser%20la%20sous-nutrition%20dans%20le%20monde)
 
 ### Projet 05 — Structurer une base de données immobilière
 
@@ -90,7 +90,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Présentation (21 diapositives) et dictionnaire de données.
 
-**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/5-Structurer%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re)
+**Accès :** [lien vers le dossier du projet 5](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/5-Structurer%20une%20base%20de%20donn%C3%A9es%20immobili%C3%A8re)
 
 ### Projet 06 — Fiabiliser les analyses de ventes et de stocks
 
@@ -118,7 +118,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Rapport Power BI (.pbix) ; capture à exporter pour la version finale.
 
-**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/7-Piloter%20la%20performance%20de%20projets%20avec%20Power%20BI)
+**Accès :** [lien vers le dossier du projet 7](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/7-Piloter%20la%20performance%20de%20projets%20avec%20Power%20BI)
 
 ### Projet 08 — Construire un pipeline analytique avec dbt
 
@@ -146,7 +146,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Notebook analytique et présentation (31 diapositives).
 
-**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/9-Analyse%20des%20ventes%20d'une%20librairie%20en%20ligne)
+**Accès :** [lien vers le dossier du projet 9](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/fc7f7475fb78f131fecbd9c14300e26603dbc2e0/9-Analyse%20des%20ventes%20d'une%20librairie%20en%20ligne)
 
 ### Projet 10 — Cibler les actions sur l’accès à l’eau potable
 
@@ -160,7 +160,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Rapport Power BI (.pbix) et présentation du besoin.
 
-**Accès :** [lien vers le dossier du projet](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/d4bed227f843f611a5e917d7f4c32d172ce517ba/10-Cibler%20les%20actions%20sur%20l%E2%80%99acc%C3%A8s%20%C3%A0%20l%E2%80%99eau%20potable)
+**Accès :** [lien vers le dossier du projet 10](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/d4bed227f843f611a5e917d7f4c32d172ce517ba/10-Cibler%20les%20actions%20sur%20l%E2%80%99acc%C3%A8s%20%C3%A0%20l%E2%80%99eau%20potable)
 
 ### Projet 11 — Identifier des marchés d’exportation attractifs
 
@@ -188,7 +188,7 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Livrables.** Notebook, présentation et script de prédiction CLI.
 
-**Accès :** [ajouter le lien vers le dossier du projet 12]
+**Accès :** [lien vers le dossier du projet 12](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/2a5bd382b0d3bc88bf428efbf9f418499ba5fb49/12-Pr%C3%A9dire%20l%E2%80%99authenticit%C3%A9%20de%20billets%20de%20banque)
 
 ## Veille technologique — à compléter pour le projet 13
 
