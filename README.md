@@ -190,11 +190,3 @@ Les projets présentés ci-dessous illustrent ces compétences à travers des é
 
 **Accès :** [lien vers le dossier du projet 12](https://github.com/M-Javah/Portfolio-Data-Analyst/tree/2a5bd382b0d3bc88bf428efbf9f418499ba5fb49/12-Pr%C3%A9dire%20l%E2%80%99authenticit%C3%A9%20de%20billets%20de%20banque)
 
-## Veille technologique — à compléter pour le projet 13
-
-Présenter ici les **sujets suivis**, les **sources fiables**, la **méthode de collecte et son automatisation réelle**, les **informations sélectionnées** et la **mise en application dans le projet 6**. Éviter d’affirmer qu’un outil ou une automatisation est en place tant que ce n’est pas le cas.
-
-## Documentation
-
-- [Ajouter le lien vers le portfolio PDF une fois finalisé]
-- [Ajouter le lien vers la documentation de la version améliorée du projet 6]
